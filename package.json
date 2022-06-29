@@ -3,8 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "start": "tsc && node --inspect ./build/index.js",
-        "dev": "tsnd --transpile-only --ignore-watch node_modules ./src/index.ts",
+        "start": "tsc && node ./build/index.js",
+        "dev": "ts-node-dev ./src/index.ts",
         "test": "ts-node-dev ./src/services/authenticator.ts"
     },
     "author": "Ricardo Ribeiro<rickhard@bol.com.br>",
