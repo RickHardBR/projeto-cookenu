@@ -24,7 +24,7 @@
       * 8. Curtir Post
       * 9. Descurtir Post
       * 10. Comentar Post
-<h2 id="sobre">Exercício da Semana</h2>
+<h2 id="sobre">Exercícios da Semana</h2>
 
 Você sabia que está ficando mais relevante no mundo de devs? Quanto mais e mais projetos você faz, mais tem clientes te divulgando por aí!
 
